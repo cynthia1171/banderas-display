@@ -1,0 +1,15 @@
+.gray, .yellow{
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	padding: 10px;
+}
+
+.yellow{
+	background-color: #F7E304;
+}
+
+.gray{
+	color: #fff;
+	background-color: #433E3E;
+}
